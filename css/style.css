@@ -1281,7 +1281,7 @@ Parallax
 ============================= */
 
 #parallax1{	
-	background-image: url(../img/parallax/1.jpg);
+	background-image: url(../img/parallax/calamardo.png);
     background-position: center;
     background-repeat: no-repeat;
     display:block;
@@ -1303,7 +1303,7 @@ Parallax
 
 
 #parallax2{	
-	background-image: url(../img/parallax/2.jpg);
+	background-image: url(../img/parallax/megamente.png);
     background-position: center;
     background-repeat: no-repeat;
     display:block;
@@ -1324,7 +1324,7 @@ Parallax
 }
 
 #parallax3{	
-	background-image: url(../img/parallax/3.jpg);
+	background-image: url(../img/parallax/pinguino2.png);
     background-position: center;
     background-repeat: no-repeat;
     display:block;
